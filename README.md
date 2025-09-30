@@ -74,7 +74,7 @@ for epoch in range(epochs):
 
 ### True Stock Price, Predicted Stock Price vs time
 
-<img width="1041" height="604" alt="image" src="https://github.com/user-attachments/assets/7cf62306-5e0d-4dc3-b81e-ca4ca4f34bf3" />
+<img width="909" height="644" alt="image" src="https://github.com/user-attachments/assets/1bf50214-bdfa-4801-bc6a-122298088d92" />
 
 ## Result
 
